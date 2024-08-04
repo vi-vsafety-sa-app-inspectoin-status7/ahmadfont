@@ -1,4 +1,4 @@
-/* @font-face {
+ @font-face {
     font-family: "JF Flat Regular";
     src: url("https://db.onlinewebfonts.com/t/7d411bb0357d6fd29347455b7d207995.eot");
     src: url("https://db.onlinewebfonts.com/t/7d411bb0357d6fd29347455b7d207995.eot?#iefix") format("embedded-opentype"),
@@ -7,7 +7,7 @@
          url("https://db.onlinewebfonts.com/t/7d411bb0357d6fd29347455b7d207995.ttf") format("truetype"),
          url("https://db.onlinewebfonts.com/t/7d411bb0357d6fd29347455b7d207995.svg#JF Flat Regular") format("svg");
          font-display:block; /* أو استخدم block حسب ما تفضله */
-} */
+} 
 
 body {
     font-family: "JF Flat Regular", sans-serif;
